@@ -1,4 +1,4 @@
-package SearchInsertPosition;
+package searchInsertPosition;
 
 
 //wrong: required algorithm with O(log n) runtime 

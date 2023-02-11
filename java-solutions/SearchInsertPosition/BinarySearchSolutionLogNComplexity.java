@@ -1,4 +1,4 @@
-package SearchInsertPosition;
+package searchInsertPosition;
 
 
 //this code has O(log n) complexity
